@@ -14,7 +14,7 @@ O algoritmo calcula a distância Euclidiana de uma nova casa para as existentes 
 ### Visualização Gráfica
 Abaixo apresenta-se o resultado da classificação gerado pelo nosso código:
 
-![Gráfico do Exemplo](grafico_exemplo.png)
+![Gráfico do Exemplo](exemplo_imobiliario.png)
 
 ## Como executar
 Basta abrir o ficheiro `.ipynb` e correr as células sequencialmente.
